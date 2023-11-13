@@ -7,3 +7,5 @@ qodana.yaml
 ctk_examples/
 build/
 assets/
+dist/
+*.spec
