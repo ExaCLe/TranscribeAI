@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.idea/
+*.m4a
+output.txt
+qodana.yaml
+ctk_examples/
+build/
+assets/
